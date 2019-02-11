@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# Remove built files
+build/
+
+# OS specific files
+.DS_Store
